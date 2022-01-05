@@ -1,0 +1,182 @@
+C:\Users\marqu\source\repos\WebApp\bin\WebApp.dll.config
+C:\Users\marqu\source\repos\WebApp\bin\WebApp.dll
+C:\Users\marqu\source\repos\WebApp\bin\WebApp.pdb
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\csc.exe
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\csc.exe.config
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\csc.rsp
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\csi.exe
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\csi.exe.config
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\csi.rsp
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Console.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\vbc.exe
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\vbc.rsp
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\marqu\source\repos\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marqu\source\repos\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\marqu\source\repos\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\marqu\source\repos\WebApp\bin\System.Web.Http.dll
+C:\Users\marqu\source\repos\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\marqu\source\repos\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\marqu\source\repos\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\marqu\source\repos\WebApp\bin\System.Web.Http.xml
+C:\Users\marqu\source\repos\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marqu\source\repos\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\marqu\source\repos\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\marqu\source\repos\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\marqu\source\repos\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\marqu\source\repos\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\marqu\source\repos\WebApp\obj\Debug\WebApp.dll
+C:\Users\marqu\source\repos\WebApp\obj\Debug\WebApp.pdb
+C:\Users\marqu\source\repos\WebApp\bin\System.Web.Cors.dll
+C:\Users\marqu\source\repos\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\marqu\source\repos\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\marqu\source\repos\WebApp\bin\WebApp.xml
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marqu\source\repos\WebApp\bin\Swashbuckle.Core.dll
+C:\Users\marqu\source\repos\WebApp\bin\WebActivatorEx.dll
+C:\Users\marqu\source\repos\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\marqu\source\repos\WebApp\bin\App.Domain.dll
+C:\Users\marqu\source\repos\WebApp\bin\App.Repository.dll
+C:\Users\marqu\source\repos\WebApp\bin\App.Domain.pdb
+C:\Users\marqu\source\repos\WebApp\bin\App.Repository.pdb
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Owin.dll
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marqu\source\repos\WebApp\bin\Owin.dll
+C:\Users\marqu\source\repos\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Owin.xml
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marqu\source\repos\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\marqu\source\repos\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\WebApp.dll.config
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\WebApp.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\WebApp.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\WebApp.pdb
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\csc.exe
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\csc.exe.config
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\csc.rsp
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\csi.exe
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\csi.exe.config
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\csi.rsp
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Console.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\vbc.exe
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\vbc.exe.config
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\vbc.rsp
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\App.Domain.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\App.Repository.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Owin.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Owin.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Swashbuckle.Core.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Web.Cors.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Web.Http.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Web.Http.Owin.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\WebActivatorEx.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\App.Domain.pdb
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\App.Repository.pdb
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Owin.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Web.Http.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Web.Http.Cors.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Web.Http.Owin.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\obj\Debug\WebApp.dll
+C:\Users\marqu\OneDrive\Documents\Curso API\Projeto API\WebApp\obj\Debug\WebApp.pdb

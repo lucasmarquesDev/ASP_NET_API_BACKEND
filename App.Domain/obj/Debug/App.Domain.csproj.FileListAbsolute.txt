@@ -1,0 +1,9 @@
+C:\Users\marqu\source\repos\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\marqu\source\repos\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\marqu\source\repos\App.Domain\obj\Debug\App.Domain.csprojAssemblyReference.cache
+C:\Users\marqu\source\repos\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marqu\source\repos\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\marqu\source\repos\App.Domain\obj\Debug\App.Domain.pdb
+C:\Users\marqu\source\repos\App.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marqu\source\repos\App.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marqu\source\repos\App.Domain\obj\Debug\App.Domain.csproj.CopyComplete
